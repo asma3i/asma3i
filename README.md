@@ -126,9 +126,9 @@ contact: asmayabderazzak@gmail.com
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=asma3i&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38bdf8&line=8b5cf6&point=94a3b8&area=true" alt="activity" />
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asma3i/asma3i/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asma3i/asma3i/output/github-contribution-grid-snake.svg" />
-    <img width="95%" alt="contribution snake" src="https://raw.githubusercontent.com/asma3i/asma3i/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asma3i/asma3i/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asma3i/asma3i/output/snake.svg" />
+    <img width="95%" alt="contribution snake" src="https://raw.githubusercontent.com/asma3i/asma3i/output/snake.svg" />
   </picture>
 </div>
 
