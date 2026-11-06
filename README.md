@@ -118,12 +118,10 @@ contact: asmayabderazzak@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asma3i&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=8b5cf6&text_color=94a3b8&rank_icon=github" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asma3i&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" alt="languages" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=asma3i&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=8b5cf6&text_color=94a3b8&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=asma3i&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8" alt="languages" />
   <br />
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=asma3i&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=8b5cf6&currStreakLabel=38bdf8" alt="streak" />
-  <br />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=asma3i&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38bdf8&line=8b5cf6&point=94a3b8&area=true" alt="activity" />
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asma3i/asma3i/output/snake-dark.svg" />
